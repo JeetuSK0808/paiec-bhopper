@@ -6,7 +6,7 @@ Code and technical report for team **BHopper** (Satyajeeth Suresh Kannan) in the
 The task: predict the probability that an AI system answers an item of a never-seen benchmark correctly, with 0, 1, 3, 7, 15
 or 31 of its outcomes on that benchmark revealed. Scored by Brier ALC (lower is better).
 
-**Selected submission: v6** (`submission_v6/`, packaged as `submissions/paie_v6.zip`, SHA-256
+**Selected submission: v6**, Codabench submission #949120 (`submission_v6/`, packaged as `submissions/paie_v6.zip`, SHA-256
 `45c6596a2631b4ed714916f0da35a2461b8e53c910867f816ee6b55bda7aea08`). The report is `report/paiec_bhopper_report.pdf`.
 
 ## What's here
