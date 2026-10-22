@@ -1,0 +1,41 @@
+loaded 6 benchmarks in 0.5s: matharena(81 eligible), mmdocrag(68 eligible), multi_swebench(82 eligible), real_webagents(26 eligible), researchcodebench(31 eligible), swe_rebench(1 eligible)
+[k2] matharena          pairs   24  ALC 0.2061  (1s)
+[k2] mmdocrag           pairs   24  ALC 0.1904  (1s)
+[k2] multi_swebench     pairs   24  ALC 0.1678  (1s)
+[k2] real_webagents     pairs   24  ALC 0.2123  (1s)
+[k2] researchcodebench  pairs   24  ALC 0.2245  (2s)
+[k2] swe_rebench        pairs   12  ALC 0.2663  (1s)
+--- submission_v6_s2_k [k2]: macro ALC 0.2112 (mean over 6 held-out benchmarks), micro 0.2062 (132 pairs)
+    matharena          pairs   24  ALC 0.2061 +- 0.0124   B0=0.250 B1=0.253 B3=0.214 B7=0.189 B15=0.170 B31=0.160
+    mmdocrag           pairs   24  ALC 0.1904 +- 0.0120   B0=0.250 B1=0.215 B3=0.184 B7=0.186 B15=0.166 B31=0.151
+    multi_swebench     pairs   24  ALC 0.1678 +- 0.0160   B0=0.250 B1=0.184 B3=0.166 B7=0.150 B15=0.143 B31=0.141
+    real_webagents     pairs   24  ALC 0.2123 +- 0.0126   B0=0.250 B1=0.226 B3=0.225 B7=0.205 B15=0.191 B31=0.180
+    researchcodebench  pairs   24  ALC 0.2245 +- 0.0112   B0=0.250 B1=0.250 B3=0.229 B7=0.215 B15=0.205 B31=0.197
+    swe_rebench        pairs   12  ALC 0.2663 +- 0.0031   B0=0.250 B1=0.269 B3=0.277 B7=0.265 B15=0.266 B31=0.259
+[k4] matharena          pairs   48  ALC 0.2104  (1s)
+[k4] mmdocrag           pairs   48  ALC 0.1646  (1s)
+[k4] multi_swebench     pairs   48  ALC 0.1842  (2s)
+[k4] real_webagents     pairs   48  ALC 0.2128  (1s)
+[k4] researchcodebench  pairs   48  ALC 0.2300  (3s)
+[k4] swe_rebench        pairs   12  ALC 0.2752  (1s)
+--- submission_v6_s2_k [k4]: macro ALC 0.2129 (mean over 6 held-out benchmarks), micro 0.2040 (252 pairs)
+    matharena          pairs   48  ALC 0.2104 +- 0.0076   B0=0.250 B1=0.237 B3=0.214 B7=0.203 B15=0.185 B31=0.174
+    mmdocrag           pairs   48  ALC 0.1646 +- 0.0103   B0=0.250 B1=0.184 B3=0.161 B7=0.148 B15=0.139 B31=0.132
+    multi_swebench     pairs   48  ALC 0.1842 +- 0.0108   B0=0.250 B1=0.198 B3=0.179 B7=0.173 B15=0.167 B31=0.159
+    real_webagents     pairs   48  ALC 0.2128 +- 0.0075   B0=0.250 B1=0.249 B3=0.226 B7=0.198 B15=0.182 B31=0.169
+    researchcodebench  pairs   48  ALC 0.2300 +- 0.0044   B0=0.250 B1=0.258 B3=0.242 B7=0.224 B15=0.209 B31=0.184
+    swe_rebench        pairs   12  ALC 0.2752 +- 0.0055   B0=0.250 B1=0.279 B3=0.287 B7=0.289 B15=0.270 B31=0.251
+[k8] matharena          pairs   96  ALC 0.2082  (3s)
+[k8] mmdocrag           pairs   96  ALC 0.1686  (2s)
+[k8] multi_swebench     pairs   96  ALC 0.1719  (3s)
+[k8] real_webagents     pairs   96  ALC 0.2054  (2s)
+[k8] researchcodebench  pairs   96  ALC 0.2008  (4s)
+[k8] swe_rebench        pairs   12  ALC 0.2770  (1s)
+--- submission_v6_s2_k [k8]: macro ALC 0.2053 (mean over 6 held-out benchmarks), micro 0.1931 (492 pairs)
+    matharena          pairs   96  ALC 0.2082 +- 0.0046   B0=0.250 B1=0.232 B3=0.221 B7=0.202 B15=0.179 B31=0.162
+    mmdocrag           pairs   96  ALC 0.1686 +- 0.0075   B0=0.250 B1=0.182 B3=0.162 B7=0.156 B15=0.149 B31=0.140
+    multi_swebench     pairs   96  ALC 0.1719 +- 0.0085   B0=0.250 B1=0.184 B3=0.166 B7=0.160 B15=0.153 B31=0.144
+    real_webagents     pairs   96  ALC 0.2054 +- 0.0066   B0=0.250 B1=0.226 B3=0.214 B7=0.201 B15=0.181 B31=0.160
+    researchcodebench  pairs   96  ALC 0.2008 +- 0.0038   B0=0.250 B1=0.234 B3=0.207 B7=0.191 B15=0.172 B31=0.148
+    swe_rebench        pairs   12  ALC 0.2770 +- 0.0064   B0=0.250 B1=0.283 B3=0.304 B7=0.283 B15=0.260 B31=0.261
+done in 39s -> results_logs/v7/sim/results/sim_submission_v6_s2_k.json

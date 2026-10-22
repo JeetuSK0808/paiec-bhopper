@@ -1,0 +1,22 @@
+items with >=3 subjects per benchmark: {'matharena': 1344, 'mmdocrag': 2000, 'multi_swebench': 2078, 'real_webagents': 232, 'researchcodebench': 212}
+Qwen2.5-Coder-1.5B:mid lam    1.0  matharena +0.00  mmdocrag -0.07  multi_sweb +0.02  real_webag -0.08  researchco -0.14   mean rho -0.053  min -0.14
+Qwen2.5-Coder-1.5B:mid lam   10.0  matharena -0.01  mmdocrag -0.07  multi_sweb +0.06  real_webag -0.08  researchco -0.17   mean rho -0.056  min -0.17
+Qwen2.5-Coder-1.5B:mid lam  100.0  matharena -0.01  mmdocrag -0.08  multi_sweb +0.04  real_webag -0.08  researchco -0.17   mean rho -0.060  min -0.17
+Qwen2.5-Coder-1.5B:last lam    1.0  matharena +0.07  mmdocrag -0.00  multi_sweb +0.08  real_webag -0.02  researchco -0.12   mean rho +0.002  min -0.12
+Qwen2.5-Coder-1.5B:last lam   10.0  matharena +0.06  mmdocrag +0.01  multi_sweb +0.10  real_webag -0.01  researchco -0.13   mean rho +0.005  min -0.13
+Qwen2.5-Coder-1.5B:last lam  100.0  matharena -0.02  mmdocrag +0.02  multi_sweb +0.09  real_webag +0.01  researchco -0.11   mean rho -0.000  min -0.11
+Qwen2.5-Coder-1.5B:tok lam    1.0  matharena +0.17  mmdocrag +0.01  multi_sweb +0.16  real_webag +0.01  researchco -0.31   mean rho +0.008  min -0.31
+Qwen2.5-Coder-1.5B:tok lam   10.0  matharena +0.14  mmdocrag -0.03  multi_sweb +0.17  real_webag -0.02  researchco -0.33   mean rho -0.015  min -0.33
+Qwen2.5-Coder-1.5B:tok lam  100.0  matharena +0.12  mmdocrag -0.03  multi_sweb +0.13  real_webag -0.06  researchco -0.35   mean rho -0.037  min -0.35
+Qwen2.5-Coder-1.5B:nll lam    1.0  matharena +0.37  mmdocrag +0.03  multi_sweb -0.09  real_webag +0.15  researchco -0.02   mean rho +0.087  min -0.09
+Qwen2.5-Coder-1.5B:nll lam   10.0  matharena +0.37  mmdocrag +0.03  multi_sweb -0.09  real_webag +0.15  researchco -0.02   mean rho +0.087  min -0.09
+Qwen2.5-Coder-1.5B:nll lam  100.0  matharena +0.37  mmdocrag +0.03  multi_sweb -0.09  real_webag +0.16  researchco -0.02   mean rho +0.088  min -0.09
+Qwen2.5-Coder-1.5B:nll+traits lam    1.0  matharena +0.29  mmdocrag -0.01  multi_sweb -0.05  real_webag +0.06  researchco -0.22   mean rho +0.013  min -0.22
+Qwen2.5-Coder-1.5B:nll+traits lam   10.0  matharena +0.29  mmdocrag -0.01  multi_sweb -0.05  real_webag +0.06  researchco -0.23   mean rho +0.012  min -0.23
+Qwen2.5-Coder-1.5B:nll+traits lam  100.0  matharena +0.29  mmdocrag -0.00  multi_sweb -0.05  real_webag +0.07  researchco -0.29   mean rho +0.006  min -0.29
+bge-base         lam    1.0  matharena +0.11  mmdocrag -0.08  multi_sweb -0.07  real_webag -0.03  researchco +0.16   mean rho +0.018  min -0.08
+bge-base         lam   10.0  matharena +0.10  mmdocrag -0.09  multi_sweb -0.08  real_webag -0.03  researchco +0.16   mean rho +0.012  min -0.09
+bge-base         lam  100.0  matharena +0.01  mmdocrag -0.10  multi_sweb -0.12  real_webag -0.04  researchco +0.17   mean rho -0.015  min -0.12
+traits           lam    1.0  matharena +0.24  mmdocrag -0.03  multi_sweb -0.04  real_webag +0.12  researchco -0.32   mean rho -0.007  min -0.32
+traits           lam   10.0  matharena +0.24  mmdocrag -0.03  multi_sweb -0.04  real_webag +0.12  researchco -0.32   mean rho -0.006  min -0.32
+traits           lam  100.0  matharena +0.25  mmdocrag -0.02  multi_sweb -0.03  real_webag +0.12  researchco -0.32   mean rho -0.001  min -0.32

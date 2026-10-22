@@ -1,0 +1,15 @@
+loaded 6 benchmarks in 0.5s: matharena(81 eligible), mmdocrag(68 eligible), multi_swebench(82 eligible), real_webagents(26 eligible), researchcodebench(31 eligible), swe_rebench(1 eligible)
+[practice] matharena          pairs   29  ALC 0.2061  (11s)
+[practice] mmdocrag           pairs   24  ALC 0.1843  (9s)
+[practice] multi_swebench     pairs   23  ALC 0.1767  (9s)
+[practice] real_webagents     pairs   27  ALC 0.1881  (10s)
+[practice] researchcodebench  pairs   23  ALC 0.2135  (9s)
+[practice] swe_rebench        pairs   20  ALC 0.2691  (11s)
+--- v6_skipco_s2_practice [practice]: macro ALC 0.2063 (mean over 6 held-out benchmarks), micro 0.2043 (146 pairs)
+    matharena          pairs   29  ALC 0.2061 +- 0.0105   B0=0.250 B1=0.223 B3=0.219 B7=0.203 B15=0.179 B31=0.164
+    mmdocrag           pairs   24  ALC 0.1843 +- 0.0160   B0=0.250 B1=0.240 B3=0.185 B7=0.156 B15=0.144 B31=0.141
+    multi_swebench     pairs   23  ALC 0.1767 +- 0.0145   B0=0.250 B1=0.240 B3=0.171 B7=0.149 B15=0.135 B31=0.128
+    real_webagents     pairs   27  ALC 0.1881 +- 0.0161   B0=0.250 B1=0.205 B3=0.193 B7=0.177 B15=0.163 B31=0.157
+    researchcodebench  pairs   23  ALC 0.2135 +- 0.0128   B0=0.250 B1=0.223 B3=0.225 B7=0.209 B15=0.193 B31=0.187
+    swe_rebench        pairs   20  ALC 0.2691 +- 0.0032   B0=0.250 B1=0.279 B3=0.272 B7=0.269 B15=0.270 B31=0.262
+done in 63s -> results_logs/v7/sim/results/sim_v6_skipco_s2_practice.json

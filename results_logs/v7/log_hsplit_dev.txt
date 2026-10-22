@@ -1,0 +1,13 @@
+hidden-calibrated simulator, tau_true 1.5, 60 episodes x 3 samples x seeds 0,1,2
+  oracle           lone   pairs  2880  ALC 0.1737   B0..B31 0.2500 0.1653 0.1653 0.1653 0.1653 0.1653
+  oracle           shared pairs  1800  ALC 0.1594   B0..B31 0.2500 0.1493 0.1493 0.1493 0.1493 0.1493
+  oracle           sample ALC mean 0.1680 sd 0.0097  expected best-of-N: N=1:0.1682 N=6:0.1558 N=20:0.1510 N=40:0.1488 N=100:0.1464
+  beta1            lone   pairs  2880  ALC 0.2001   B0..B31 0.2500 0.2225 0.2007 0.1870 0.1785 0.1738
+  beta1            shared pairs  1800  ALC 0.1860   B0..B31 0.2500 0.2101 0.1847 0.1700 0.1616 0.1573
+  beta1            sample ALC mean 0.1946 sd 0.0115  expected best-of-N: N=1:0.1948 N=6:0.1805 N=20:0.1754 N=40:0.1733 N=100:0.1713
+  beta0.7          lone   pairs  2880  ALC 0.2007   B0..B31 0.2500 0.2243 0.2015 0.1872 0.1786 0.1739
+  beta0.7          shared pairs  1800  ALC 0.1856   B0..B31 0.2500 0.2088 0.1841 0.1698 0.1615 0.1573
+  beta0.7          sample ALC mean 0.1948 sd 0.0127  expected best-of-N: N=1:0.1951 N=6:0.1792 N=20:0.1737 N=40:0.1714 N=100:0.1692
+  submission_v6    lone   pairs  2880  ALC 0.2004   B0..B31 0.2500 0.2227 0.2009 0.1870 0.1790 0.1744
+  submission_v6    shared pairs  1800  ALC 0.1788   B0..B31 0.2500 0.1964 0.1736 0.1629 0.1582 0.1558
+  submission_v6    sample ALC mean 0.1920 sd 0.0121  expected best-of-N: N=1:0.1922 N=6:0.1773 N=20:0.1721 N=40:0.1700 N=100:0.1679

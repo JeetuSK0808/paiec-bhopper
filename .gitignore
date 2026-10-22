@@ -1,0 +1,15 @@
+.venv/
+data/
+results/
+private/
+upstream/
+src/paie_exp/
+__pycache__/
+*.pyc
+*.parquet
+*.npz
+.DS_Store
+report/*.aux
+report/*.log
+report/*.out
+report/*.png

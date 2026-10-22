@@ -1,0 +1,13 @@
+v6final                            seed=0 single  ALC 0.1853  mathar:0.1646 mmdocr:0.1250 multi_:0.1801 real_w:0.1992 resear:0.2314 swe_re:0.2114  (9s)
+v6final                            seed=0 mix2    ALC 0.1829  mathar:0.1649 mmdocr:0.1196 multi_:0.1766 real_w:0.1986 resear:0.2261 swe_re:0.2114  (10s)
+v6final                            seed=0 mix8    ALC 0.1756  mathar:0.1600 mmdocr:0.1136 multi_:0.1697 real_w:0.1904 resear:0.2087 swe_re:0.2114  (12s)
+v6final                            seed=0 pooled  ALC 0.1585  mathar:0.1234 mmdocr:0.1054 multi_:0.1506 real_w:0.1711 resear:0.1891 swe_re:0.2114  (24s)
+v6final                            seed=1 single  ALC 0.1839  mathar:0.1640 mmdocr:0.1194 multi_:0.1810 real_w:0.1904 resear:0.2201 swe_re:0.2288  (7s)
+v6final                            seed=1 mix2    ALC 0.1811  mathar:0.1634 mmdocr:0.1164 multi_:0.1739 real_w:0.1878 resear:0.2159 swe_re:0.2288  (9s)
+v6final                            seed=1 mix8    ALC 0.1761  mathar:0.1550 mmdocr:0.1138 multi_:0.1665 real_w:0.1897 resear:0.2030 swe_re:0.2288  (12s)
+v6final                            seed=1 pooled  ALC 0.1614  mathar:0.1235 mmdocr:0.1052 multi_:0.1523 real_w:0.1721 resear:0.1864 swe_re:0.2288  (15s)
+v6final                            seed=2 single  ALC 0.1869  mathar:0.1629 mmdocr:0.1209 multi_:0.1823 real_w:0.2014 resear:0.2283 swe_re:0.2256  (8s)
+v6final                            seed=2 mix2    ALC 0.1845  mathar:0.1627 mmdocr:0.1194 multi_:0.1772 real_w:0.1996 resear:0.2223 swe_re:0.2256  (8s)
+v6final                            seed=2 mix8    ALC 0.1800  mathar:0.1613 mmdocr:0.1135 multi_:0.1713 real_w:0.1966 resear:0.2114 swe_re:0.2256  (12s)
+v6final                            seed=2 pooled  ALC 0.1637  mathar:0.1257 mmdocr:0.1056 multi_:0.1548 real_w:0.1841 resear:0.1863 swe_re:0.2256  (17s)
+v6final                            MEAN over seeds single 0.1854  mix2 0.1828  mix8 0.1772  pooled 0.1612

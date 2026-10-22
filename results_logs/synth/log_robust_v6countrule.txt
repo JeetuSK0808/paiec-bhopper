@@ -1,0 +1,25 @@
+  OK  no labels                      -> 0.5
+  OK  labels None                    -> 0.5
+  OK  normal                         -> 0.5183858241610246
+  OK  labelled item                  -> 0.7230910324847972
+  OK  unseen benchmark               -> 0.5
+  OK  other subject                  -> 0.4881420336776242
+  OK  subject None fields            -> 0.47395857160977234
+  OK  subject not dict               -> 0.46065477321230386
+  OK  item missing benchmark_id      -> 0.5
+  OK  item not dict                  -> 0.5
+  OK  item_content None              -> 0.5095298850369584
+  OK  item_features dict             -> 0.5183858241610246
+  OK  item_features JSON             -> 0.5183858241610246
+  OK  item_features garbage          -> 0.5183858241610246
+  OK  interactors list               -> 0.5183858241610246
+  OK  fractional labels              -> 0.45023000260374524
+  OK  bool labels                    -> 0.5183858241610246
+  OK  garbage labeled entries        -> 0.5183858241610246
+  OK  labels only other benchmark    -> 0.5
+  OK  input too short                -> 0.5
+  OK  all-one labels                 -> 0.9622549027857222
+  OK  all-zero labels                -> 0.042821965093463005
+  determinism: max |diff| across fresh imports + reversed prediction order = 0
+  runtime: 3000 predictions with 1860 labels (~100 KB items): 1.0s (0.33 ms/call, incl. first-time hashing)
+ALL OK

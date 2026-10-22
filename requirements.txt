@@ -1,0 +1,10 @@
+# the submission itself (submission_v6/) needs only numpy
+numpy>=2.0
+# experiments and the figure
+pandas>=2.2
+pyarrow>=15
+matplotlib>=3.8
+huggingface_hub>=0.23
+# optional: language-model probes (scripts/embed_items_lm.py, negative results only)
+# torch>=2.3
+# transformers>=4.44

@@ -1,0 +1,12 @@
+PASS mode is stream
+PASS hook does not request a prediction
+PASS skips an item another system of the benchmark revealed
+PASS own earlier label of the same item does not trigger a skip
+PASS same item text on another benchmark does not trigger a skip
+PASS forced take when items_remaining <= labels_remaining
+PASS never acquires with an exhausted allowance
+PASS matches the evaluator's default random rule whenever nothing is skipped (600 cases)
+PASS malformed inputs never raise and return a bool (11 cases)
+PASS arguments are left unchanged
+PASS fast with 279 labels of 100 KB items (incl. the evaluator's deepcopy): 2.94 ms per call
+11/11 checks passed

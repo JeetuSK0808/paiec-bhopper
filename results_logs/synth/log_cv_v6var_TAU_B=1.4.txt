@@ -1,0 +1,13 @@
+submission_v6 TAU_B=1.4            seed=0 single  ALC 0.1853  mathar:0.1646 mmdocr:0.1250 multi_:0.1801 real_w:0.1992 resear:0.2314 swe_re:0.2114  (10s)
+submission_v6 TAU_B=1.4            seed=0 mix2    ALC 0.1829  mathar:0.1649 mmdocr:0.1196 multi_:0.1766 real_w:0.1986 resear:0.2261 swe_re:0.2114  (8s)
+submission_v6 TAU_B=1.4            seed=0 mix8    ALC 0.1756  mathar:0.1600 mmdocr:0.1136 multi_:0.1697 real_w:0.1904 resear:0.2087 swe_re:0.2114  (11s)
+submission_v6 TAU_B=1.4            seed=0 pooled  ALC 0.1601  mathar:0.1270 mmdocr:0.1109 multi_:0.1507 real_w:0.1738 resear:0.1867 swe_re:0.2114  (13s)
+submission_v6 TAU_B=1.4            seed=1 single  ALC 0.1839  mathar:0.1640 mmdocr:0.1194 multi_:0.1810 real_w:0.1904 resear:0.2201 swe_re:0.2288  (10s)
+submission_v6 TAU_B=1.4            seed=1 mix2    ALC 0.1811  mathar:0.1634 mmdocr:0.1164 multi_:0.1739 real_w:0.1878 resear:0.2159 swe_re:0.2288  (9s)
+submission_v6 TAU_B=1.4            seed=1 mix8    ALC 0.1761  mathar:0.1550 mmdocr:0.1138 multi_:0.1665 real_w:0.1897 resear:0.2030 swe_re:0.2288  (12s)
+submission_v6 TAU_B=1.4            seed=1 pooled  ALC 0.1642  mathar:0.1275 mmdocr:0.1113 multi_:0.1521 real_w:0.1778 resear:0.1875 swe_re:0.2288  (25s)
+submission_v6 TAU_B=1.4            seed=2 single  ALC 0.1869  mathar:0.1629 mmdocr:0.1209 multi_:0.1823 real_w:0.2014 resear:0.2283 swe_re:0.2256  (6s)
+submission_v6 TAU_B=1.4            seed=2 mix2    ALC 0.1845  mathar:0.1627 mmdocr:0.1194 multi_:0.1772 real_w:0.1996 resear:0.2223 swe_re:0.2256  (9s)
+submission_v6 TAU_B=1.4            seed=2 mix8    ALC 0.1800  mathar:0.1613 mmdocr:0.1135 multi_:0.1713 real_w:0.1966 resear:0.2114 swe_re:0.2256  (11s)
+submission_v6 TAU_B=1.4            seed=2 pooled  ALC 0.1659  mathar:0.1296 mmdocr:0.1116 multi_:0.1547 real_w:0.1881 resear:0.1856 swe_re:0.2256  (18s)
+submission_v6 TAU_B=1.4            MEAN over seeds single 0.1854  mix2 0.1828  mix8 0.1772  pooled 0.1634

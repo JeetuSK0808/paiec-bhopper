@@ -1,0 +1,13 @@
+submission_v6 SP_SCALE=0.25        seed=0 single  ALC 0.1854  mathar:0.1652 mmdocr:0.1209 multi_:0.1787 real_w:0.2007 resear:0.2335 swe_re:0.2132  (10s)
+submission_v6 SP_SCALE=0.25        seed=0 mix2    ALC 0.1834  mathar:0.1654 mmdocr:0.1170 multi_:0.1761 real_w:0.2007 resear:0.2278 swe_re:0.2132  (8s)
+submission_v6 SP_SCALE=0.25        seed=0 mix8    ALC 0.1763  mathar:0.1601 mmdocr:0.1127 multi_:0.1698 real_w:0.1923 resear:0.2099 swe_re:0.2132  (11s)
+submission_v6 SP_SCALE=0.25        seed=0 pooled  ALC 0.1609  mathar:0.1268 mmdocr:0.1109 multi_:0.1512 real_w:0.1756 resear:0.1874 swe_re:0.2132  (24s)
+submission_v6 SP_SCALE=0.25        seed=1 single  ALC 0.1842  mathar:0.1646 mmdocr:0.1148 multi_:0.1796 real_w:0.1905 resear:0.2207 swe_re:0.2351  (6s)
+submission_v6 SP_SCALE=0.25        seed=1 mix2    ALC 0.1818  mathar:0.1641 mmdocr:0.1141 multi_:0.1729 real_w:0.1884 resear:0.2164 swe_re:0.2351  (9s)
+submission_v6 SP_SCALE=0.25        seed=1 mix8    ALC 0.1777  mathar:0.1555 mmdocr:0.1136 multi_:0.1665 real_w:0.1916 resear:0.2038 swe_re:0.2351  (11s)
+submission_v6 SP_SCALE=0.25        seed=1 pooled  ALC 0.1658  mathar:0.1275 mmdocr:0.1115 multi_:0.1527 real_w:0.1796 resear:0.1882 swe_re:0.2351  (22s)
+submission_v6 SP_SCALE=0.25        seed=2 single  ALC 0.1871  mathar:0.1636 mmdocr:0.1162 multi_:0.1809 real_w:0.2017 resear:0.2297 swe_re:0.2304  (9s)
+submission_v6 SP_SCALE=0.25        seed=2 mix2    ALC 0.1850  mathar:0.1634 mmdocr:0.1168 multi_:0.1763 real_w:0.2003 resear:0.2229 swe_re:0.2304  (10s)
+submission_v6 SP_SCALE=0.25        seed=2 mix8    ALC 0.1811  mathar:0.1618 mmdocr:0.1130 multi_:0.1713 real_w:0.1979 resear:0.2121 swe_re:0.2304  (11s)
+submission_v6 SP_SCALE=0.25        seed=2 pooled  ALC 0.1671  mathar:0.1297 mmdocr:0.1118 multi_:0.1553 real_w:0.1895 resear:0.1860 swe_re:0.2304  (15s)
+submission_v6 SP_SCALE=0.25        MEAN over seeds single 0.1856  mix2 0.1834  mix8 0.1784  pooled 0.1646
